@@ -1,0 +1,43 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    width: 100%;
+    background-color: #d7fae8;
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+    /* background-image: url(/CSS/images/subway_background.png); */
+    height: 100vh;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 8em;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color: white;
+}
+.resetBtn{
+    text-align: center;
+    
+}
+#reset{
+    background-color: #c1e1d0;
+    padding: 5px;
+    border-radius: 30px;
+      
+}
+#reset:hover{
+    color: white;
+}
